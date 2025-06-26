@@ -1,0 +1,1 @@
+1. Variable >> penggunaan var, let, dan const namun di JavaScript ES6+ lebih disarankan tidak menggunakan var, sebagai gantinya gunakan let untuk membuar variable yang nilainya di prediksi akan berubah. aku juga belajar membuat mini program untuk memperdalam pemahaman terkait tipe data number, string, dan boolean.
